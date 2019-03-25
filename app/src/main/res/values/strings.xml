@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Course</string>
+
+    <string-array name = "week">
+    <item>Week 1: 18 February</item>
+        <item>Week 2: 25 February</item>
+        <item>Week 3: 4 March</item>
+        <item>Week 4: 11 March</item>
+        <item>Week 5: 18 March</item>
+        <item>Week 6: 25 March</item>
+        <item>Week 7: 1 April</item>
+        <item>Week 8: 8 April</item>
+        <item>Week 9: 15 April</item>
+        <item>Week 10: 22 April</item>
+    </string-array>
+
+    <string-array name = "lecture">
+        <item>Lecture</item>
+        <item>Lecture</item>
+        <item>Lecture</item>
+        <item>Lecture</item>
+        <item>Lecture</item>
+        <item>Lecture</item>
+        <item>Lecture</item>
+        <item>Lecture</item>
+        <item>Lecture</item>
+        <item>Lecture</item>
+
+    </string-array>
+
+    <string-array name = "lab">
+        <item>Lab</item>
+        <item>Lab</item>
+        <item>Lab</item>
+        <item>Lab</item>
+        <item>Lab</item>
+        <item>Lab</item>
+        <item>Lab</item>
+        <item>Lab</item>
+        <item>Lab</item>
+        <item>Lab</item>
+
+    </string-array>
+
+    <string-array name = "lec_topic">
+        <item>Introduction and Android Fundamentals</item>
+        <item>Activities, Lifecycle and Intents</item>
+        <item>Layouts and UI</item>
+        <item>Lists and Adapters</item>
+        <item>Fragments and Multi-layout Apps</item>
+        <item>APIs, Permissions and Libraries</item>
+        <item>Networking</item>
+        <item>Threads and Async Tasks</item>
+        <item>Data Saving</item>
+        <item>Outlook and Course Summary</item>
+
+    </string-array>
+
+    <string-array name = "lab_topic">
+        <item>Android Studio, Git and App basics</item>
+        <item>Activities and Intents</item>
+        <item>Designing a UI</item>
+        <item>Displaying Items in a List</item>
+        <item>Fragments for Multi-layout Apps</item>
+        <item>APIs and JSON</item>
+        <item>Networking</item>
+        <item>Async Tasks</item>
+        <item>Database</item>
+        <item>Revision</item>
+
+    </string-array>
+
+
+
+
+</resources>
